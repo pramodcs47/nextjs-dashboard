@@ -7,8 +7,8 @@ import { preload } from 'react-dom';
 
 
 export const inter = Inter({ subsets: ['latin'] });
-export const lustina = Lusitana({ weight: "400",adjustFontFallback:true, preload:true, subsets: ['latin'] });
-export const playWrite = Playwrite_IT_Moderna_Guides({weight: "400"})
-export const michroma = Michroma({weight: "400"})
+export const lusitana = Lusitana({ weight: "400",adjustFontFallback:true, preload:true, subsets: ['latin'] });
+export const playWrite = Playwrite_IT_Moderna_Guides({weight: "400"});
+export const michroma = Michroma({weight: "400",subsets:['latin']})
 
 

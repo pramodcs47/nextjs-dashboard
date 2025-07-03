@@ -3,7 +3,7 @@ import { ArrowRightIcon } from '@heroicons/react/24/outline';
 import App from 'next/app';
 import Link from 'next/link';
 import styles from '@/app/ui/home.module.css'
-import { lustina, playWrite } from '@/app/ui/fonts/fonts';
+import { lusitana, playWrite } from '@/app/ui/fonts/fonts';
 import Image from 'next/image';
 
 // import './ui/home.css'
