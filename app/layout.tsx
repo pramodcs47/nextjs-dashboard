@@ -12,7 +12,7 @@ export default function RootLayout({
     <html lang="en">
       {/* <body className={inter.className}>{children} */}
         {/* <body >{children} */}
-        <body className={`${playWrite.className} antialiased`}>{children}
+        <body className={`${playWrite.className}  ${inter.className} antialiased`}>{children}
         
       </body>
     </html>
